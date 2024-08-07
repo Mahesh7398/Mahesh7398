@@ -17,9 +17,10 @@
 
 ### 2. Customer Purchase Behavior Analysis and Reporting
 **Technologies Used**: SQL, Python, PowerBI
+
 **Description**: An analytical project that involved using SQL, Python, and PowerBI to analyze customer purchase patterns and generate insightful reports to aid business decision-making.
 
-**Details:** [View Project](https://github.com/lakhan9340/Customer-Purchase-Behavior-Analysis-and-Reporting-)
+**Details:** [View Project](https://github.com/Mahesh7398/Customer-Purchase-Behavior-Analysis-and-Reporting)
 
 ### 3. FT-32 Web Scraping Assignment 1
 **Description**: A web scraping assignment that involved extracting and analyzing data from various websites to understand trends and patterns.
