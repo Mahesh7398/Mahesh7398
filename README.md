@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm Mahesh 👋 </h2>
+<h2 align="center">Hi there, I'm Mahesh 👋 </h2>
 <p align= "center">Welcome to my GitHub profile! I'm Mahesh, a dedicated Data Analyst with a deep passion for transforming complex and intricate datasets into clear, actionable insights that drive business success. My work is centered around leveraging the power of data to uncover trends, solve problems, and make informed decisions. Whether it's through data analysis, visualization, or process automation, I strive to add value by turning raw data into strategic assets. I am committed to continuous learning and innovation, always exploring new tools and techniques to enhance my ability to deliver impactful, data-driven solutions
 </p>
 
