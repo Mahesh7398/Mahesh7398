@@ -22,7 +22,7 @@
 
 **Details:** [View Project](https://github.com/Mahesh7398/Customer-Purchase-Behavior-Analysis-and-Reporting)
 
-### 3. FT-32 Web Scraping Assignment 1
+### 3. Web Scraping
 **Description**: A web scraping assignment that involved extracting and analyzing data from various websites to understand trends and patterns.
 
 **Technologies Used**: Python, BeautifulSoup, Scrapy
