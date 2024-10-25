@@ -27,7 +27,9 @@
 ### 3. Web Scraping
 **Description**: A web scraping assignment that involved extracting and analyzing data from various websites to understand trends and patterns.
 
-**Technologies Used**: Python, BeautifulSoup, Scrapy
+**Technologies Used**: Python, BeautifulSoup, Selenium
+
+**Details:** [View Project](https://github.com/Mahesh7398/IMBD_Webscraping)
 
 ### 4. RPA Projects for First Group plc and Vanquis Bank
 **Description**: Developed and maintained automated processes for tasks such as new hires, balance sheet reconciliation, invoice queries, fraud transactions, and refund activities. Managed change requests, incident management, and hotfixes using JIRA services.
