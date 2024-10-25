@@ -10,10 +10,12 @@
 
 ## Projects
 
-### 1. Quality Improvement Initiatives in Healthcare Management
-**Description**: A comprehensive research paper that explores various case studies and best practices in healthcare management, focusing on quality improvement initiatives. The paper includes a literature review, case analysis, and recommendations for future practices.
+### 1. Data-Driven Insights into the Used Car Market: Analyzing CARS24 Dataset Using SQL
+**Description**: Analyzing the CARS24 dataset using SQL to uncover key insights into the used car market, including pricing trends, popular features, and sales patterns, for data-driven decision-making.
 
-**Technologies Used**: Research, Academic Writing, APA/MLA Formatting
+**Technologies Used**: My SQL
+
+**Details:** [View Project](https://github.com/Mahesh7398/Deep-Dive-into-Customer-Purchase-Behavior-with-SQL-Analytics)
 
 ### 2. Customer Purchase Behavior Analysis and Reporting
 **Technologies Used**: SQL, Python, PowerBI
